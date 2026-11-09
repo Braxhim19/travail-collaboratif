@@ -1,0 +1,12 @@
+Nom et prénom : Benzedira Brahim
+Établissement : École Nationale Polytechnique d'Oran - Maurice Audin
+Spécialité : Ingénierie et Management des Systèmes d'Information
+
+Compétences :
+- Programmation Java, Python et C
+- Développement Web
+- Bases de données SQL
+- Git et GitHub
+
+Objectif : Apprendre le travail collaboratif
+avec Git et GitHub.
